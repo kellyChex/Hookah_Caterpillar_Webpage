@@ -1,13 +1,19 @@
 # JavaScript_Intro_Exercise
 Practiced dynamically changing a header on a web page
 
+
+
 About the Project:
 
 I made an Alice and Wonderland themed, simple, interactive webpage that has header, a text box, and a button. In the text box users can type whatever they'd like, click the button, and then the header is changed and updated. This interactivity was accomplished by creating a JavaScript function that takes the text and puts it into the header. 
 
+
+
 How to set it up:
 
 You'll need to run files inputBox.html, inputBox.css, and inputBox.js. 
+
+
 
 What I learned:
 
@@ -69,5 +75,5 @@ oldHeader.innerHTML = "Howdy" + newHeader + "!";
 The innerHTML property accessed the text within the h1 header then assigned that text the variable "Howdy" + newHeader + "!"  which will include the text entered in the textbox. 
 
 
-Heroku or site44 link:
-Not available
+
+Heroku or site44 link: Not available
