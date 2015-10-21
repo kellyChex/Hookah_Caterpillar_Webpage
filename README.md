@@ -1,4 +1,4 @@
-# JavaScript_Intro_Exercise
+# Hookah_Smoking_Caterpillar_Webpage
 Practiced dynamically changing a header on a web page
 
 
